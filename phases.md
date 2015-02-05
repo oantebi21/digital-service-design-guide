@@ -1,4 +1,4 @@
-##Making a digital service
+##Making a Digital Service
  
 Learn about the different phases of service design and get guidance for the phase you’re in now.
  
