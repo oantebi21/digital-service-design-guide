@@ -1,4 +1,4 @@
-# digital-service-design-guide
+# Digital Service Design Guide
 Build services so good that people prefer to use them
 ###Think differently about digital delivery
  
