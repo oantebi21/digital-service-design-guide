@@ -1,7 +1,12 @@
-##Making a service
+##Making a digital service
  
 Learn about the different phases of service design and get guidance for the phase you’re in now.
  
+Building a digital service is a complex task, with many risks. By breaking development into phases you minimise risk, learning about what works and what doesn’t, iterating as you go.
+ 
+As the service progresses through development you’ll find out more about users’ needs, development requirements and the conditions your service will be operating in. The level of detail, complexity and risk will increase along the way.
+ 
+This approach allows the team making and operating the service to start small, learn fast, and provide value to users as soon as possible.
 ###Discovery
  
 A short phase, in which you start researching the needs of your service’s users, find out what you should be measuring, and explore technological or policy-related constraints.
