@@ -1,4 +1,4 @@
-##Design principles
+##Design Principles
  
 Listed below are our design principles for all digital services. 
 
