@@ -1,6 +1,6 @@
 # digital-service-design-guide
 Build services so good that people prefer to use them
-##Think differently about digital delivery
+###Think differently about digital delivery
  
 Discover what it means to be part of an agile, user-focused and multidisciplinary team, delivering digital services in government.
  
