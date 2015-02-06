@@ -17,17 +17,17 @@ Government needs services that are genuinely agile and responsive to changing ne
 
 - **End user devices** — Delivering IT that meets the needs of users
 
-- **Government as a platform — Services built on a shared core
+- **Government as a platform** — Services built on a shared core
 
- Open data — Accessible, machine-readable data about services
+- **Open data** — Accessible, machine-readable data about services
 
- Security as enabler — Using technological change to build secure services
+- **Security as enabler** — Using technological change to build secure services
 
- Service integration and management — Managing providers in an efficient way
+- **Service integration and management** — Managing providers in an efficient way
 
- Spending controls — Navigating the ICT investment process
+- **Spending controls** — Navigating the ICT investment process
 
- Technology architecture
+- **Technology architecture**
 
- Technology code of practice — Guidelines for the approval of technology spending
+- **Technology code of practice** — Guidelines for the approval of technology spending
 
