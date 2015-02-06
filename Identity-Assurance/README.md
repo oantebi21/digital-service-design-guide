@@ -1,4 +1,4 @@
-##Identity assurance – for government service providers
+##Identity Assurance – for government service providers
  
 Users of digital government services need to be able to sign in securely and conveniently to access services and records, and be confident that their data is secure and their privacy protected.
  
